@@ -9,7 +9,9 @@ The project highlights my progression in **data analytics, dashboard design, and
 
 ## 🚀 Repository Structure
 📁 Data_Jobs_V1/ → Foundational dashboard (core analysis)
+
 📁 Data_Jobs_V2/ → Advanced dashboard (enhanced insights & UX)
+
 📁 images/ → Dashboard screenshots
 
 ---
