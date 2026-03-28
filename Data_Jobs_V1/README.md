@@ -89,7 +89,8 @@ Key visuals and insights include:
 
 The page is fully interactive, allowing users to filter by job title and drill through for deeper analysis.
 
-![Dashboard Page1](images/datajobs_v1_page1.png)
+![Data Jobs V1 Page 1](../images/datajobs_v1_page1.png)
+
 ---
 
 ### 📄 Page 2: Salary & Job Characteristics Analysis
@@ -108,4 +109,4 @@ Key visuals and insights include:
 This page complements the first by combining **compensation insights** with **job flexibility, benefits, and market accessibility**.
 
 
-![Dashboard Page2](images/datajobs_v1_page2.png)
+![Data Jobs V1 Page 1](../images/datajobs_v1_page2.png)
