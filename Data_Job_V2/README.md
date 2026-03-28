@@ -70,7 +70,7 @@ Design improvements in V2 include:
 
 Here’s a preview of the dashboard:
 
-![V2 Dashboard](images/datajobs_v2_page1.png)
+![V2 Dashboard](../images/datajobs_v2_page1.png)
 
 The dashboard is designed to be **intuitive, interactive, and insight-focused**.
 
